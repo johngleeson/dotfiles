@@ -11,12 +11,12 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+|2,0,1535760742,,"q"
+:wq
+|2,0,1535760736,,"wq"
 :q!
 |2,0,1533595321,,"q!"
-:q
-|2,0,1533595315,,"q"
-:wq
-|2,0,1533595302,,"wq"
 
 # Search String History (newest to oldest):
 
